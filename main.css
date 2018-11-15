@@ -13,10 +13,13 @@ p{
     color: teal;
 }
 
-ol{
-    color: darkblue;
+li{
+    color: darkblue;  /*bullet color */
 }
 
+li span {
+    color: black; /* text color */
+  }
 /*
 This is CSS syntax
 selector {
