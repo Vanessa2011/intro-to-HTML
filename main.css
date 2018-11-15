@@ -1,0 +1,19 @@
+body {
+    background-color: lavenderblush;
+    text-align: center;
+}
+
+h1{
+    background-color: aquamarine;
+    color: gray;
+    padding: 20px;
+}
+
+
+/*
+This is CSS syntax
+selector {
+    property : value
+}
+*/
+
